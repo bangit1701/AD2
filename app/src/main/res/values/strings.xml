@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AD2</string>
+    <string-array name="array_spinner">
+        <item>img1</item>
+        <item>img2</item>
+        <item>img3</item>
+        <item>img4</item>
+        <item>img5</item>
+    </string-array>
+</resources>
